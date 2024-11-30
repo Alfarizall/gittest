@@ -1,3 +1,4 @@
+
 # Data panen
 data_panen = {
     'lokasi1': {
@@ -76,3 +77,4 @@ for lokasi, data in data_panen.items():
         print(f"{nama_lokasi} perlu perhatian khusus.")
     else:
         print(f"{nama_lokasi} dalam kondisi baik.")
+print('Hello World!')

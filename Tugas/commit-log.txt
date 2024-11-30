@@ -1,0 +1,7 @@
+040074a 	deleted:    DaPan.py
+5f082e5 ver1
+0e01e3b 	new file:   commit-log.txt
+e5966f8 	deleted:    Tugas/DaPan.py
+e136ff8 test
+b162ce2 	new file:   Tugas/DaPan.py
+471bbaf ini ver 1
